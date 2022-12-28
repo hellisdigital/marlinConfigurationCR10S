@@ -8,4 +8,10 @@
     MAXTEMP should be around 230-245C depending on the quality of ptfe tube, check for delamination after printing at MAXTEMP
 
     3. set EXTRUDE_MINTEMP to 180
+
+2. filament runout settings
+    1. set FILAMENT_RUNOUT_DISTANCE_MM to 5
+    
+    TODO see how if it works correctly after false positive and after runout
+    
     
