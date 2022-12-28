@@ -7,4 +7,5 @@
     HEATER_MAXTEMP - HOTEND_OVERSHOOT = MAXTEMP <br>
     MAXTEMP should be around 230-245C depending on the quality of ptfe tube, check for delamination after printing at MAXTEMP
 
+    3. set EXTRUDE_MINTEMP to 180
     
